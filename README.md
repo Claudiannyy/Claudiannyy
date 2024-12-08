@@ -2,15 +2,7 @@
 
 ###
 
-<p align="center">Sou estudante de Matemática(UFPE) e apaixonada por programação e tecnologia. Meu caminho na programação começou na faculdade, quando tive o privilégio de aprender Python na disciplina de Introdução à Computação.</p>
-
-###
-
-<h3 align="center">💻 O que estou fazendo:</h3>
-
-###
-
-<p align="left">Atualmente, estou me aprofundando em diferentes áreas de desenvolvimento de software:<br><br>🎨 Bootcamp Front-End – Mergulhando em HTML, Sass, React, Vue e Styled Components para criar interfaces modernas e dinâmicas.<br><br>💻 Bootcamp Oracle Next Education – Aprendendo Java, Spring Boot e desenvolvendo habilidades em back-end.<br><br>☁️ Bootcamp AWS Re-Start – Explorando o mundo da cloud computing e aprendendo sobre AWS.</p>
+<p align="center">Sou estudante de Matemática (UFPE) e Análise e Desenvolvimento de Sistemas (UNINTER).<br> Meu caminho na programação começou quando cursei a disciplina de Introdução à Computação na faculdade. Desde então, venho me aprofundando em diversas tecnologias como HTML, CSS, JavaScript, SASS, React, Styled-components, Vue e Java. Ao longo dessa jornada, busquei aprender e aplicar os conceitos de ambas as áreas, sempre em busca de melhorar minhas habilidades e construir soluções cada vez mais completas.</p>
 
 ###
 
@@ -18,10 +10,9 @@
 
 ###
 
-<p align="left">📚 Sou monitora da disciplina de Introdução à Computação com Python na faculdade, onde compartilho meus conhecimentos e ajudo outros alunos a se aprofundarem no mundo da programação.<br><br>🏅 Menção Honrosa nas Olimpíadas Brasileiras de Matemática aos 14 anos, um marco importante na minha jornada acadêmica e científica.<br><br>🔬 Tive a oportunidade de participar de Iniciação Científica, com foco em  teoria dos números, onde aprendi mais sobre a aplicação de conceitos matemáticos.</p>
+<p align="center">📚 Sou monitora da disciplina de Introdução à Computação na UFPE.<br><br>🏅 Menção Honrosa nas Olimpíadas Brasileiras de Matemática.<br><br>🔬 Participei do Programa de Iniciação Científica(PIC).</p>
 
 ###
-
 <h3 align="center">🛠️ Tecnologias, Bibliotecas & Frameworks:</h3>
 
 ###
